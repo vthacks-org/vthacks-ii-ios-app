@@ -39,9 +39,9 @@
      */
     
     
-//    UIImage *image = [UIImage imageNamed:@"foo.png"];
-//    self.imageView.image = image;
-//    self.scrollView.contentSize = self.imageView.image.size;
+    UIImage *image = [UIImage imageNamed:@"foo.png"];
+    self.imageView.image = image;
+    self.scrollView.contentSize = self.imageView.image.size;
     
     //pulling an image from the web???
     AFHTTPRequestOperation *operation = [[AFHTTPRequestOperation alloc] initWithRequest:request];
