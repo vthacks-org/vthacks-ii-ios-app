@@ -30,18 +30,20 @@
     self.scrollView.delegate = self;
     
     //pulling an image from the web???
-    //NSURL *url = [NSURL URLWithString:MAPS_URL];
-    //NSURLRequest *request = [NSURLRequest requestWithURL:url];
+    NSURL *url = [NSURL URLWithString:MAPS_URL];
+    NSURLRequest *request = [NSURLRequest requestWithURL:url];
     
+    /*
     //NSString* imagePath = [[NSBundle mainBundle] pathForResource:@"foo" ofType:@"png"];
-    UIImage *image = [UIImage imageNamed:@"foo.png"];
     //UIImage* image = [UIImage imageWithContentsOfFile:imagePath];
+     */
     
-    self.imageView.image = image;
-    self.scrollView.contentSize = self.imageView.image.size;
+    
+//    UIImage *image = [UIImage imageNamed:@"foo.png"];
+//    self.imageView.image = image;
+//    self.scrollView.contentSize = self.imageView.image.size;
     
     //pulling an image from the web???
-    /*
     AFHTTPRequestOperation *operation = [[AFHTTPRequestOperation alloc] initWithRequest:request];
     operation.responseSerializer = [AFImageResponseSerializer serializer];
     
@@ -53,7 +55,7 @@
     }];
     
     [operation start];
-     */
+     
 }
 
 -(void)viewWillAppear:(BOOL)animated

@@ -13,7 +13,7 @@
 #define TOPIC_ARN   @"arn:aws:sns:us-east-1:860000342007:VTHacksTopic"
 #define QUEUE_URL   @"https://sqs.us-east-1.amazonaws.com/860000342007/VTHacksQueue"
 #define QUEUE_ARN   @"arn:aws:sqs:us-east-1:860000342007:VTHacksQueue"
-//#define MAPS_URL    @"http://vthacks-env-pmkrjpmqpu.elasticbeanstalk.com/get_map"
+#define MAPS_URL    @"http://vthacks-env-pmkrjpmqpu.elasticbeanstalk.com/get_map"
 
 @interface Constants:NSObject {}
 

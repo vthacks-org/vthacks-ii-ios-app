@@ -28,7 +28,10 @@
     
     UIColor *green = [UIColor colorWithRed:.44 green:.59 blue:.27 alpha:1];
     
-    return green;
+    UIColor *grey = [UIColor colorWithRed:.24 green:.24 blue:.24 alpha:1];
+    //gave it a try, but didn't like this one
+    //UIColor *green = [UIColor colorWithRed:.45 green:.64 blue:.31 alpha:1];
+    return grey;
 }
 
 

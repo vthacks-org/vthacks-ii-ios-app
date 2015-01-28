@@ -60,6 +60,7 @@
 		10F75C2918EB8E2F004DBF27 /* MenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 10F75C2818EB8E2F004DBF27 /* MenuViewController.m */; };
 		10F7B48C18F2239500448A01 /* AWSRuntime.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 10F7B48B18F2239500448A01 /* AWSRuntime.framework */; };
 		17024DA51A75A61A00D9BF44 /* backgroundColor.png in Resources */ = {isa = PBXBuildFile; fileRef = 17024DA41A75A61A00D9BF44 /* backgroundColor.png */; };
+		1716DFE51A787A940086AAF5 /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFE41A787A940086AAF5 /* splash.png */; };
 		178BE5A61A75A96E0074D47C /* foo.png in Resources */ = {isa = PBXBuildFile; fileRef = 178BE5A51A75A96E0074D47C /* foo.png */; };
 		3D4103B818C399CF008B4295 /* AWSSNS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D4103B518C399CF008B4295 /* AWSSNS.framework */; };
 		3D4103B918C399CF008B4295 /* AWSSQS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D4103B618C399CF008B4295 /* AWSSQS.framework */; };
@@ -161,6 +162,7 @@
 		10F7B48B18F2239500448A01 /* AWSRuntime.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AWSRuntime.framework; sourceTree = "<group>"; };
 		11EEA74AFA4D472CA2679F35 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		17024DA41A75A61A00D9BF44 /* backgroundColor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgroundColor.png; sourceTree = "<group>"; };
+		1716DFE41A787A940086AAF5 /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splash.png; sourceTree = "<group>"; };
 		178BE5A51A75A96E0074D47C /* foo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = foo.png; sourceTree = "<group>"; };
 		3D4103B518C399CF008B4295 /* AWSSNS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AWSSNS.framework; sourceTree = "<group>"; };
 		3D4103B618C399CF008B4295 /* AWSSQS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AWSSQS.framework; sourceTree = "<group>"; };
@@ -290,6 +292,7 @@
 				104E5D2C18EEAB2F00AEE078 /* test2.png */,
 				104E5D2A18EEAAFA00AEE078 /* test.png */,
 				17024DA41A75A61A00D9BF44 /* backgroundColor.png */,
+				1716DFE41A787A940086AAF5 /* splash.png */,
 				10747F1F18EBDCF400B2EB5E /* Custom Refresh Controls */,
 				10F75C2118EB890C004DBF27 /* Custom Menu */,
 				10CF8DD818C302E70014E20D /* ViewController */,
@@ -512,6 +515,7 @@
 				10F75C2618EB8B11004DBF27 /* MenuCell.xib in Resources */,
 				10751F6018EC8D4D00102B57 /* hokieHorse-10.png in Resources */,
 				10751F5718EC8D4D00102B57 /* hokieHorse-1.png in Resources */,
+				1716DFE51A787A940086AAF5 /* splash.png in Resources */,
 				10751F6518EC8D4D00102B57 /* hokieHorse-15.png in Resources */,
 				DD20ED4B18FB73D400864B97 /* contacts.json in Resources */,
 				10751F5E18EC8D4D00102B57 /* hokieHorse-8.png in Resources */,
