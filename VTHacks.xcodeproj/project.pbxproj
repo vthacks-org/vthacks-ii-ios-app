@@ -15,22 +15,6 @@
 		10751F3E18EC6AD700102B57 /* DateUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 10751F3D18EC6AD700102B57 /* DateUtilities.m */; };
 		10751F4118EC8BAA00102B57 /* ContactsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 10751F4018EC8BAA00102B57 /* ContactsViewController.m */; };
 		10751F4418EC8BB200102B57 /* AwardsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 10751F4318EC8BB200102B57 /* AwardsViewController.m */; };
-		10751F5618EC8D4D00102B57 /* hokieHorse-0.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F4618EC8D4D00102B57 /* hokieHorse-0.png */; };
-		10751F5718EC8D4D00102B57 /* hokieHorse-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F4718EC8D4D00102B57 /* hokieHorse-1.png */; };
-		10751F5818EC8D4D00102B57 /* hokieHorse-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F4818EC8D4D00102B57 /* hokieHorse-2.png */; };
-		10751F5918EC8D4D00102B57 /* hokieHorse-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F4918EC8D4D00102B57 /* hokieHorse-3.png */; };
-		10751F5A18EC8D4D00102B57 /* hokieHorse-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F4A18EC8D4D00102B57 /* hokieHorse-4.png */; };
-		10751F5B18EC8D4D00102B57 /* hokieHorse-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F4B18EC8D4D00102B57 /* hokieHorse-5.png */; };
-		10751F5C18EC8D4D00102B57 /* hokieHorse-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F4C18EC8D4D00102B57 /* hokieHorse-6.png */; };
-		10751F5D18EC8D4D00102B57 /* hokieHorse-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F4D18EC8D4D00102B57 /* hokieHorse-7.png */; };
-		10751F5E18EC8D4D00102B57 /* hokieHorse-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F4E18EC8D4D00102B57 /* hokieHorse-8.png */; };
-		10751F5F18EC8D4D00102B57 /* hokieHorse-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F4F18EC8D4D00102B57 /* hokieHorse-9.png */; };
-		10751F6018EC8D4D00102B57 /* hokieHorse-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F5018EC8D4D00102B57 /* hokieHorse-10.png */; };
-		10751F6118EC8D4D00102B57 /* hokieHorse-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F5118EC8D4D00102B57 /* hokieHorse-11.png */; };
-		10751F6218EC8D4D00102B57 /* hokieHorse-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F5218EC8D4D00102B57 /* hokieHorse-12.png */; };
-		10751F6318EC8D4D00102B57 /* hokieHorse-13.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F5318EC8D4D00102B57 /* hokieHorse-13.png */; };
-		10751F6418EC8D4D00102B57 /* hokieHorse-14.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F5418EC8D4D00102B57 /* hokieHorse-14.png */; };
-		10751F6518EC8D4D00102B57 /* hokieHorse-15.png in Resources */ = {isa = PBXBuildFile; fileRef = 10751F5518EC8D4D00102B57 /* hokieHorse-15.png */; };
 		10C7849B18C397C5003A1ED0 /* AnnoucementCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 10C7849A18C397C5003A1ED0 /* AnnoucementCell.m */; };
 		10C784A018C3A80B003A1ED0 /* ScheduleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 10C7849F18C3A80B003A1ED0 /* ScheduleCell.m */; };
 		10CF8D9818C27EBA0014E20D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 10CF8D9618C27EBA0014E20D /* InfoPlist.strings */; };
@@ -61,6 +45,22 @@
 		10F7B48C18F2239500448A01 /* AWSRuntime.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 10F7B48B18F2239500448A01 /* AWSRuntime.framework */; };
 		17024DA51A75A61A00D9BF44 /* backgroundColor.png in Resources */ = {isa = PBXBuildFile; fileRef = 17024DA41A75A61A00D9BF44 /* backgroundColor.png */; };
 		1716DFE51A787A940086AAF5 /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFE41A787A940086AAF5 /* splash.png */; };
+		1716DFF61A7890300086AAF5 /* hokieHorse-0.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFE61A7890300086AAF5 /* hokieHorse-0.png */; };
+		1716DFF71A7890300086AAF5 /* hokieHorse-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFE71A7890300086AAF5 /* hokieHorse-1.png */; };
+		1716DFF81A7890300086AAF5 /* hokieHorse-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFE81A7890300086AAF5 /* hokieHorse-2.png */; };
+		1716DFF91A7890300086AAF5 /* hokieHorse-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFE91A7890300086AAF5 /* hokieHorse-3.png */; };
+		1716DFFA1A7890300086AAF5 /* hokieHorse-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFEA1A7890300086AAF5 /* hokieHorse-4.png */; };
+		1716DFFB1A7890300086AAF5 /* hokieHorse-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFEB1A7890300086AAF5 /* hokieHorse-5.png */; };
+		1716DFFC1A7890300086AAF5 /* hokieHorse-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFEC1A7890300086AAF5 /* hokieHorse-6.png */; };
+		1716DFFD1A7890300086AAF5 /* hokieHorse-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFED1A7890300086AAF5 /* hokieHorse-7.png */; };
+		1716DFFE1A7890300086AAF5 /* hokieHorse-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFEE1A7890300086AAF5 /* hokieHorse-8.png */; };
+		1716DFFF1A7890300086AAF5 /* hokieHorse-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFEF1A7890300086AAF5 /* hokieHorse-9.png */; };
+		1716E0001A7890300086AAF5 /* hokieHorse-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFF01A7890300086AAF5 /* hokieHorse-10.png */; };
+		1716E0011A7890300086AAF5 /* hokieHorse-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFF11A7890300086AAF5 /* hokieHorse-11.png */; };
+		1716E0021A7890300086AAF5 /* hokieHorse-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFF21A7890300086AAF5 /* hokieHorse-12.png */; };
+		1716E0031A7890300086AAF5 /* hokieHorse-13.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFF31A7890300086AAF5 /* hokieHorse-13.png */; };
+		1716E0041A7890300086AAF5 /* hokieHorse-14.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFF41A7890300086AAF5 /* hokieHorse-14.png */; };
+		1716E0051A7890300086AAF5 /* hokieHorse-15.png in Resources */ = {isa = PBXBuildFile; fileRef = 1716DFF51A7890300086AAF5 /* hokieHorse-15.png */; };
 		178BE5A61A75A96E0074D47C /* foo.png in Resources */ = {isa = PBXBuildFile; fileRef = 178BE5A51A75A96E0074D47C /* foo.png */; };
 		3D4103B818C399CF008B4295 /* AWSSNS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D4103B518C399CF008B4295 /* AWSSNS.framework */; };
 		3D4103B918C399CF008B4295 /* AWSSQS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D4103B618C399CF008B4295 /* AWSSQS.framework */; };
@@ -101,22 +101,6 @@
 		10751F4018EC8BAA00102B57 /* ContactsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactsViewController.m; sourceTree = "<group>"; };
 		10751F4218EC8BB200102B57 /* AwardsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AwardsViewController.h; sourceTree = "<group>"; };
 		10751F4318EC8BB200102B57 /* AwardsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AwardsViewController.m; sourceTree = "<group>"; };
-		10751F4618EC8D4D00102B57 /* hokieHorse-0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-0.png"; sourceTree = "<group>"; };
-		10751F4718EC8D4D00102B57 /* hokieHorse-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-1.png"; sourceTree = "<group>"; };
-		10751F4818EC8D4D00102B57 /* hokieHorse-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-2.png"; sourceTree = "<group>"; };
-		10751F4918EC8D4D00102B57 /* hokieHorse-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-3.png"; sourceTree = "<group>"; };
-		10751F4A18EC8D4D00102B57 /* hokieHorse-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-4.png"; sourceTree = "<group>"; };
-		10751F4B18EC8D4D00102B57 /* hokieHorse-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-5.png"; sourceTree = "<group>"; };
-		10751F4C18EC8D4D00102B57 /* hokieHorse-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-6.png"; sourceTree = "<group>"; };
-		10751F4D18EC8D4D00102B57 /* hokieHorse-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-7.png"; sourceTree = "<group>"; };
-		10751F4E18EC8D4D00102B57 /* hokieHorse-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-8.png"; sourceTree = "<group>"; };
-		10751F4F18EC8D4D00102B57 /* hokieHorse-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-9.png"; sourceTree = "<group>"; };
-		10751F5018EC8D4D00102B57 /* hokieHorse-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-10.png"; sourceTree = "<group>"; };
-		10751F5118EC8D4D00102B57 /* hokieHorse-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-11.png"; sourceTree = "<group>"; };
-		10751F5218EC8D4D00102B57 /* hokieHorse-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-12.png"; sourceTree = "<group>"; };
-		10751F5318EC8D4D00102B57 /* hokieHorse-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-13.png"; sourceTree = "<group>"; };
-		10751F5418EC8D4D00102B57 /* hokieHorse-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-14.png"; sourceTree = "<group>"; };
-		10751F5518EC8D4D00102B57 /* hokieHorse-15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-15.png"; sourceTree = "<group>"; };
 		10C7849918C397C5003A1ED0 /* AnnoucementCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnnoucementCell.h; sourceTree = "<group>"; };
 		10C7849A18C397C5003A1ED0 /* AnnoucementCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnnoucementCell.m; sourceTree = "<group>"; };
 		10C7849E18C3A80B003A1ED0 /* ScheduleCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScheduleCell.h; sourceTree = "<group>"; };
@@ -163,6 +147,22 @@
 		11EEA74AFA4D472CA2679F35 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		17024DA41A75A61A00D9BF44 /* backgroundColor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgroundColor.png; sourceTree = "<group>"; };
 		1716DFE41A787A940086AAF5 /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splash.png; sourceTree = "<group>"; };
+		1716DFE61A7890300086AAF5 /* hokieHorse-0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-0.png"; sourceTree = "<group>"; };
+		1716DFE71A7890300086AAF5 /* hokieHorse-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-1.png"; sourceTree = "<group>"; };
+		1716DFE81A7890300086AAF5 /* hokieHorse-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-2.png"; sourceTree = "<group>"; };
+		1716DFE91A7890300086AAF5 /* hokieHorse-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-3.png"; sourceTree = "<group>"; };
+		1716DFEA1A7890300086AAF5 /* hokieHorse-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-4.png"; sourceTree = "<group>"; };
+		1716DFEB1A7890300086AAF5 /* hokieHorse-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-5.png"; sourceTree = "<group>"; };
+		1716DFEC1A7890300086AAF5 /* hokieHorse-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-6.png"; sourceTree = "<group>"; };
+		1716DFED1A7890300086AAF5 /* hokieHorse-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-7.png"; sourceTree = "<group>"; };
+		1716DFEE1A7890300086AAF5 /* hokieHorse-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-8.png"; sourceTree = "<group>"; };
+		1716DFEF1A7890300086AAF5 /* hokieHorse-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-9.png"; sourceTree = "<group>"; };
+		1716DFF01A7890300086AAF5 /* hokieHorse-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-10.png"; sourceTree = "<group>"; };
+		1716DFF11A7890300086AAF5 /* hokieHorse-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-11.png"; sourceTree = "<group>"; };
+		1716DFF21A7890300086AAF5 /* hokieHorse-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-12.png"; sourceTree = "<group>"; };
+		1716DFF31A7890300086AAF5 /* hokieHorse-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-13.png"; sourceTree = "<group>"; };
+		1716DFF41A7890300086AAF5 /* hokieHorse-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-14.png"; sourceTree = "<group>"; };
+		1716DFF51A7890300086AAF5 /* hokieHorse-15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hokieHorse-15.png"; sourceTree = "<group>"; };
 		178BE5A51A75A96E0074D47C /* foo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = foo.png; sourceTree = "<group>"; };
 		3D4103B518C399CF008B4295 /* AWSSNS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AWSSNS.framework; sourceTree = "<group>"; };
 		3D4103B618C399CF008B4295 /* AWSSQS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AWSSQS.framework; sourceTree = "<group>"; };
@@ -227,22 +227,22 @@
 		10751F4518EC8D3B00102B57 /* Horse Images */ = {
 			isa = PBXGroup;
 			children = (
-				10751F4618EC8D4D00102B57 /* hokieHorse-0.png */,
-				10751F4718EC8D4D00102B57 /* hokieHorse-1.png */,
-				10751F4818EC8D4D00102B57 /* hokieHorse-2.png */,
-				10751F4918EC8D4D00102B57 /* hokieHorse-3.png */,
-				10751F4A18EC8D4D00102B57 /* hokieHorse-4.png */,
-				10751F4B18EC8D4D00102B57 /* hokieHorse-5.png */,
-				10751F4C18EC8D4D00102B57 /* hokieHorse-6.png */,
-				10751F4D18EC8D4D00102B57 /* hokieHorse-7.png */,
-				10751F4E18EC8D4D00102B57 /* hokieHorse-8.png */,
-				10751F4F18EC8D4D00102B57 /* hokieHorse-9.png */,
-				10751F5018EC8D4D00102B57 /* hokieHorse-10.png */,
-				10751F5118EC8D4D00102B57 /* hokieHorse-11.png */,
-				10751F5218EC8D4D00102B57 /* hokieHorse-12.png */,
-				10751F5318EC8D4D00102B57 /* hokieHorse-13.png */,
-				10751F5418EC8D4D00102B57 /* hokieHorse-14.png */,
-				10751F5518EC8D4D00102B57 /* hokieHorse-15.png */,
+				1716DFE61A7890300086AAF5 /* hokieHorse-0.png */,
+				1716DFE71A7890300086AAF5 /* hokieHorse-1.png */,
+				1716DFE81A7890300086AAF5 /* hokieHorse-2.png */,
+				1716DFE91A7890300086AAF5 /* hokieHorse-3.png */,
+				1716DFEA1A7890300086AAF5 /* hokieHorse-4.png */,
+				1716DFEB1A7890300086AAF5 /* hokieHorse-5.png */,
+				1716DFEC1A7890300086AAF5 /* hokieHorse-6.png */,
+				1716DFED1A7890300086AAF5 /* hokieHorse-7.png */,
+				1716DFEE1A7890300086AAF5 /* hokieHorse-8.png */,
+				1716DFEF1A7890300086AAF5 /* hokieHorse-9.png */,
+				1716DFF01A7890300086AAF5 /* hokieHorse-10.png */,
+				1716DFF11A7890300086AAF5 /* hokieHorse-11.png */,
+				1716DFF21A7890300086AAF5 /* hokieHorse-12.png */,
+				1716DFF31A7890300086AAF5 /* hokieHorse-13.png */,
+				1716DFF41A7890300086AAF5 /* hokieHorse-14.png */,
+				1716DFF51A7890300086AAF5 /* hokieHorse-15.png */,
 			);
 			name = "Horse Images";
 			sourceTree = "<group>";
@@ -500,35 +500,35 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				10751F5A18EC8D4D00102B57 /* hokieHorse-4.png in Resources */,
-				10751F5618EC8D4D00102B57 /* hokieHorse-0.png in Resources */,
-				10751F6418EC8D4D00102B57 /* hokieHorse-14.png in Resources */,
+				1716E0051A7890300086AAF5 /* hokieHorse-15.png in Resources */,
 				10CF8DD218C293450014E20D /* FontAwesome.otf in Resources */,
-				10751F5F18EC8D4D00102B57 /* hokieHorse-9.png in Resources */,
-				10751F6218EC8D4D00102B57 /* hokieHorse-12.png in Resources */,
-				10751F6318EC8D4D00102B57 /* hokieHorse-13.png in Resources */,
 				DD20ED4C18FB73D400864B97 /* schedule.json in Resources */,
-				10751F5D18EC8D4D00102B57 /* hokieHorse-7.png in Resources */,
+				1716E0011A7890300086AAF5 /* hokieHorse-11.png in Resources */,
 				17024DA51A75A61A00D9BF44 /* backgroundColor.png in Resources */,
-				10751F5918EC8D4D00102B57 /* hokieHorse-3.png in Resources */,
-				10751F5C18EC8D4D00102B57 /* hokieHorse-6.png in Resources */,
+				1716E0001A7890300086AAF5 /* hokieHorse-10.png in Resources */,
+				1716DFF81A7890300086AAF5 /* hokieHorse-2.png in Resources */,
 				10F75C2618EB8B11004DBF27 /* MenuCell.xib in Resources */,
-				10751F6018EC8D4D00102B57 /* hokieHorse-10.png in Resources */,
-				10751F5718EC8D4D00102B57 /* hokieHorse-1.png in Resources */,
+				1716DFF71A7890300086AAF5 /* hokieHorse-1.png in Resources */,
 				1716DFE51A787A940086AAF5 /* splash.png in Resources */,
-				10751F6518EC8D4D00102B57 /* hokieHorse-15.png in Resources */,
 				DD20ED4B18FB73D400864B97 /* contacts.json in Resources */,
-				10751F5E18EC8D4D00102B57 /* hokieHorse-8.png in Resources */,
 				10CF8DD418C2C9060014E20D /* Images.xcassets in Resources */,
-				10751F6118EC8D4D00102B57 /* hokieHorse-11.png in Resources */,
 				10CF8D9818C27EBA0014E20D /* InfoPlist.strings in Resources */,
 				104E5D2B18EEAAFA00AEE078 /* test.png in Resources */,
+				1716DFF91A7890300086AAF5 /* hokieHorse-3.png in Resources */,
 				10CF8DA118C27EBA0014E20D /* Main.storyboard in Resources */,
-				10751F5B18EC8D4D00102B57 /* hokieHorse-5.png in Resources */,
+				1716DFFD1A7890300086AAF5 /* hokieHorse-7.png in Resources */,
+				1716DFFF1A7890300086AAF5 /* hokieHorse-9.png in Resources */,
+				1716DFFA1A7890300086AAF5 /* hokieHorse-4.png in Resources */,
+				1716E0031A7890300086AAF5 /* hokieHorse-13.png in Resources */,
 				DDE93AB818FC7C04004D72ED /* awards.json in Resources */,
 				104E5D2D18EEAB2F00AEE078 /* test2.png in Resources */,
 				178BE5A61A75A96E0074D47C /* foo.png in Resources */,
-				10751F5818EC8D4D00102B57 /* hokieHorse-2.png in Resources */,
+				1716E0021A7890300086AAF5 /* hokieHorse-12.png in Resources */,
+				1716E0041A7890300086AAF5 /* hokieHorse-14.png in Resources */,
+				1716DFFB1A7890300086AAF5 /* hokieHorse-5.png in Resources */,
+				1716DFFE1A7890300086AAF5 /* hokieHorse-8.png in Resources */,
+				1716DFF61A7890300086AAF5 /* hokieHorse-0.png in Resources */,
+				1716DFFC1A7890300086AAF5 /* hokieHorse-6.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
